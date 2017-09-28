@@ -1,0 +1,8 @@
+--2017-01-24 14:13:36--  http://cs231n.stanford.edu/coco_captioning.zip
+Resolving cs231n.stanford.edu... 171.64.68.10
+Connecting to cs231n.stanford.edu|171.64.68.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1035210391 (987M) [application/zip]
+Saving to: ‘coco_captioning.zip’
+
+coco_captioning.zip   0%[                    ] 692.58K  46.0KB/s    eta 6h 14m 
